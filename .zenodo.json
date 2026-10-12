@@ -1,0 +1,10 @@
+{
+  "title": "Map Doodles: 250 hand-drawn map marks for places anywhere on earth",
+  "upload_type": "image",
+  "image_type": "drawing",
+  "description": "<p>250 SVG map marks: 115 landmarks drawn as themselves (the Eiffel Tower, the moai of Rapa Nui, Wat Arun, the Taj Mahal…) and 135 kinds of place (wat, spirit house, songthaew, lighthouse, mosque, fuel station…), each with English and Thai names, OpenStreetMap tags or Wikidata ids and coordinates, and a JavaScript loader for canvas and MapLibre maps. Made for the maps of Mot Dang (motdang.net), a city guide to Chiang Mai and Chiang Rai. Gallery and world map: https://motdang.net/sites/map-doodles/</p><p>Drawn as SVG code by Claude (Anthropic) for Mot Dang, October 2026. Drawings and data CC BY 4.0, credit \"NaN · Mot Dang (motdang.net)\"; code MIT; world outline Natural Earth, public domain.</p>",
+  "creators": [{"name": "NaN", "affiliation": "Mot Dang (motdang.net)"}],
+  "license": "cc-by-4.0",
+  "keywords": ["map icons", "map markers", "SVG", "landmarks", "OpenStreetMap", "Wikidata", "illustrated map", "Thailand", "Chiang Mai"],
+  "related_identifiers": [{"identifier": "https://motdang.net/sites/map-doodles/", "relation": "isSupplementTo", "scheme": "url"}]
+}
