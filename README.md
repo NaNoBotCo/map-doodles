@@ -26,7 +26,7 @@ MDDOODLES.ready().then(function () {
 </script>
 ```
 
-The same files are served from motdang.net (`https://motdang.net/sites/map-doodles/svg/<id>.svg`), open to any site.
+Also on [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Mot_Dang_map_doodles) and the [Internet Archive](https://archive.org/details/motdang-map-doodles). The same files are served from motdang.net (`https://motdang.net/sites/map-doodles/svg/<id>.svg`), open to any site.
 
 ## Files
 
