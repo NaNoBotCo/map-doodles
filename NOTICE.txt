@@ -1,0 +1,3 @@
+Drawings and data: CC BY 4.0, credit "NaN · Mot Dang (motdang.net)".
+Code (map-doodles.js): MIT.
+World outline (data/world.json): Natural Earth, public domain.

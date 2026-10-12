@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "Credit the drawings as below."
+title: "Map Doodles: 250 hand-drawn map marks for places anywhere on earth"
+version: 1.0.0
+date-released: 2026-10-12
+authors:
+  - given-names: NaN
+    affiliation: "Mot Dang (motdang.net)"
+    website: "https://motdang.net"
+license: CC-BY-4.0
+url: "https://motdang.net/sites/map-doodles/"
+repository-code: "https://github.com/NaNoBotCo/map-doodles"
+abstract: "250 SVG map marks: 115 landmarks drawn as themselves and 135 kinds of place, each with English and Thai names, OpenStreetMap tags or Wikidata ids and coordinates. Drawn as SVG code by Claude (Anthropic) for Mot Dang."
+keywords: [map icons, map markers, SVG, landmarks, OpenStreetMap, Wikidata, illustrated map, Thailand, Chiang Mai]
